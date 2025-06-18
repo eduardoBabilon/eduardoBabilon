@@ -1,6 +1,6 @@
 - Hi, I’m @eduardoBabilon
 - I’m really interested in technology and the use of creativity to solve problems. 
-- I’m starting in the coding world and currently I'm learning Java.
+- I’m starting in the coding world and currently learning Java.
 - You can reach me by my email: eduardobabilon19@gmail.com
 
 <!---
